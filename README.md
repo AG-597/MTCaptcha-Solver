@@ -1,5 +1,5 @@
 # MTCaptcha-Solver
-Fully requests based solver for https://mtcaptcha.com 
+Fully requests based + free CAPTCHA solver for https://mtcaptcha.com 
 
 # USAGE
 
